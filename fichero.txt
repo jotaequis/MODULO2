@@ -1,0 +1,1 @@
+ACTIVIDAD 2. crear un fichero llamado fichero.txt
